@@ -1,0 +1,92 @@
+{
+  "rfp_id": "GENERIC_TEST_001",
+  "site_name": "Main Building",
+  "address": null,
+  "gross_sqft": null,
+  "net_cleanable_sqft": null,
+  "wages": null,
+  "missing_critical_documents": [
+    "Exhibit A - Floor Plan",
+    "Exhibit B - Cleaning Process",
+    "Exhibit C - Bid Sheets",
+    "Exhibit D - County Facilities"
+  ],
+  "sites": [
+    {
+      "site_name": "Main Building",
+      "address": null,
+      "gross_sqft": null,
+      "net_cleanable_sqft": null,
+      "notes": "Represents the Main Building as a single site object.",
+      "wages": null,
+      "missing_critical_documents": [
+        "Exhibit A - Floor Plan",
+        "Exhibit B - Cleaning Process",
+        "Exhibit C - Bid Sheets",
+        "Exhibit D - County Facilities"
+      ]
+    },
+    {
+      "site_name": "Building 1",
+      "address": null,
+      "gross_sqft": null,
+      "net_cleanable_sqft": null,
+      "notes": "Represents Building 1 as a separate site object.",
+      "wages": null,
+      "missing_critical_documents": [
+        "Exhibit A - Floor Plan",
+        "Exhibit B - Cleaning Process",
+        "Exhibit C - Bid Sheets",
+        "Exhibit D - County Facilities"
+      ]
+    },
+    {
+      "site_name": "Building 2",
+      "address": null,
+      "gross_sqft": null,
+      "net_cleanable_sqft": null,
+      "notes": "Represents Building 2 as a separate site object.",
+      "wages": null,
+      "missing_critical_documents": [
+        "Exhibit A - Floor Plan",
+        "Exhibit B - Cleaning Process",
+        "Exhibit C - Bid Sheets",
+        "Exhibit D - County Facilities"
+      ]
+    },
+    {
+      "site_name": "Building 3",
+      "address": null,
+      "gross_sqft": null,
+      "net_cleanable_sqft": null,
+      "notes": "Represents Building 3 as a separate site object.",
+      "wages": null,
+      "missing_critical_documents": [
+        "Exhibit A - Floor Plan",
+        "Exhibit B - Cleaning Process",
+        "Exhibit C - Bid Sheets",
+        "Exhibit D - County Facilities"
+      ]
+    },
+    {
+      "site_name": "Building 4",
+      "address": null,
+      "gross_sqft": null,
+      "net_cleanable_sqft": null,
+      "notes": "Represents Building 4 as a separate site object.",
+      "wages": null,
+      "missing_critical_documents": [
+        "Exhibit A - Floor Plan",
+        "Exhibit B - Cleaning Process",
+        "Exhibit C - Bid Sheets",
+        "Exhibit D - County Facilities"
+      ]
+    }
+  ],
+  "messages": [
+    "Pricing information is missing from the provided text. Refer to Exhibit C - Bid Sheets for accurate pricing and site counts.",
+    "Critical documents such as Floor Plans, Cleaning Process, Bid Sheets, and County Facilities are missing.",
+    "Unable to determine square footage and wages as specific information is missing.",
+    "Site names and addresses are unknown due to missing Exhibit A and other critical documents."
+  ]
+}
