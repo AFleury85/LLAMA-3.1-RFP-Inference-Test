@@ -1,0 +1,42 @@
+RFP Text:
+    RFP #: imperial-2024-janitorial
+    
+    SECTION II: LOCATIONS
+    The Contractor shall provide services for the El Centro Courthouse located at 939 W. Main St., El Centro, CA.
+    
+    SECTION III: SCHEDULE
+    Standard cleaning shall occur M-F after 5pm.
+    ** NOTE: During the months of January and February, Mock Trials occur at this location on Saturday evenings. Coverage is required. **
+    
+    SECTION IV: WAGES
+    Contractor must adhere to State Prevailing Wage laws.
+
+
+
+
+{
+  "RFP_ID": "SHOWCASE_001",
+  "RFP_Number": "imperial-2024-janitorial",
+  "Locations": [
+    {
+      "Name": "El Centro Courthouse",
+      "Address": "939 W. Main St., El Centro, CA",
+      "Notes": "Mock Trials occur at this location on Saturday evenings during January and February."
+    }
+  ],
+  "Schedule": [
+    { "Day": "Monday", "Time": "after 5pm" },
+    { "Day": "Tuesday", "Time": "after 5pm" },
+    { "Day": "Wednesday", "Time": "after 5pm" },
+    { "Day": "Thursday", "Time": "after 5pm" },
+    { "Day": "Friday", "Time": "after 5pm" }
+  ],
+  "Wages": {
+    "Prevailing_Wage": true
+  },
+  "Messages": [
+    {
+      "Message": "During the months of January and February, Mock Trials occur at this location on Saturday evenings. Coverage is required."
+    }
+  ]
+}
