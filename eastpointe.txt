@@ -1,0 +1,466 @@
+CONTRACT FOR CUSTODIAL SERVICES
+
+This Custodial Services Contract (“Contract”) is agreed to between the City of Eastpointe, a Michigan Municipal Corporation, 23200 Gratiot Avenue, Eastpointe, Michigan 48021 (the “City”) and Facilities360, 2750 Carpenter Road, Ann Arbor, Michigan 48108 (“Contractor”), a Michigan company. This Contract is effective on September __, 2024 (“Effective Date”), and unless terminated, expires on September 1, 2027.
+
+The Contractor agrees for the consideration set forth in the Bid Form for Custodial Services to provide the City work as indicated in the Bid Specifications. It is agreed that the aforementioned specifications are incorporated herein by reference and are attached hereto and made part of this contract except for any changes made herein to the contract. Work shall be accomplished in the manner and time prescribed.
+
+NOW, THEREFORE, in consideration of the promises and mutual agreements contained herein, the City agrees to retain, and does hereby retain, the Contractor and the Contractor agrees to provide services to the City as follows:
+
+AGREEMENT
+
+The following are a list of standard contract terms and conditions that the Contractor agrees to:
+
+1. Duties of Contractor. The Contractor must perform the services and provide the deliverables described this document. An obligation to provide delivery of any commodity is considered a service and is a Contract Activity.
+
+The Contractor must furnish all labor and specific supplies necessary for the performance of the Contract Activities, and meet operational standards, unless otherwise specified in this document.
+
+The Contractor must: (a) perform the Contract Activities in a timely, professional, safe, and workmanlike manner consistent with standards in the trade, profession, or industry; (b) meet or exceed the performance and operational standards, and specifications of the Contract; (c) provide all Contract Activities in good quality, with no material defects; (d) not interfere with the City’s operations; (e) obtain and maintain all necessary licenses, permits or other authorizations necessary for the performance of the Contract; (f) cooperate with the City, including the City’s quality assurance personnel, and any third party to achieve the objectives of the Contract; (g) return to the City any City-furnished equipment or other resources in the same condition as when provided when no longer required for the Contract; (h) not make any media releases without prior written authorization from the City; (i) assign to the City any claims resulting from state or federal antitrust violations to the extent that those violations concern materials or services supplied by third parties toward fulfillment of the Contract; (j) comply with all City physical and IT security policies and standards which will be made available upon request; and (k) provide the City priority in performance of the Contract except as mandated by federal disaster response requirements. Any breach under this paragraph is considered a material breach.
+
+2. Insurance Requirements. The Contractor must maintain the insurances identified below and is responsible for all deductibles. All required insurance must: (a) protect the City from claims that may arise out of, are alleged to arise out of, or result from Contractor's or a subcontractor's performance; (b) be primary and non-contributing to any comparable liability insurance (including self-insurance) carried by the City; and (c) be provided by a company with an A.M. Best rating of "A-" or better, and a financial size of VII or better.
+
+The Contractor shall provide proof of insurance to meet these requirements and in a form acceptable to the City of Eastpointe and the City's Risk Manager (see Attachment I for list of requirements).
+
+--- INSURANCE REQUIREMENTS TABLE ---
+
+TYPE: Commercial General Liability Insurance
+
+REQUIRED LIMITS:
+Minimum Limits:
+$1,000,000 Each Occurrence Limit
+$1,000,000 Personal & Advertising Injury Limit
+$2,000,000 General Aggregate Limit
+$2,000,000 Products/Completed Operations
+
+Deductible Maximum:
+$50,000 Each Occurrence
+
+ADDITIONAL REQUIREMENTS:
+Contractor must have their policy endorsed to add “the City of Eastpointe, its departments, divisions, agencies, offices, commissions, officers, employees, and agents” as additional insureds.
+
+TYPE: Automobile Liability Insurance
+
+REQUIRED LIMITS:
+Minimum Limits:
+$1,000,000 Per Accident
+
+ADDITIONAL REQUIREMENTS:
+Contractor must have their policy: (1) endorsed to add “the City of Eastpointe, its departments, divisions, agencies, offices, commissions, officers, employees, and agents” as additional insureds; and (2) include Hired and Non-Owned Automobile coverage.
+
+TYPE: Workers' Compensation Insurance
+
+REQUIRED LIMITS:
+Minimum Limits:
+Coverage according to applicable laws governing work activities.
+
+ADDITIONAL REQUIREMENTS:
+Waiver of subrogation, except where waiver is prohibited by law.
+
+TYPE: Employers Liability Insurance
+
+REQUIRED LIMITS:
+Minimum Limits:
+$500,000 Each Accident
+$500,000 Each Employee by Disease
+$500,000 Aggregate Disease.
+
+--------------------------------------
+
+If any of the required policies provide claims-made coverage, the Contractor must: (a) provide coverage with a retroactive date before the effective date of the contract or the beginning of Contract Activities; (b) maintain coverage and provide evidence of coverage for at least three (3) years after completion of the Contract Activities; and (c) if coverage is cancelled or not renewed, and not replaced with another claims-made policy form with a retroactive date prior to the contract effective date, the Contractor must purchase extended reporting coverage for a minimum of three (3) years after completion of work.
+
+The Contractor must: (a) provide insurance certificates to the Contract Administrator, containing the agreement or delivery order number, at Contract formation and within 20 calendar days of the expiration date of the applicable policies; (b) require that subcontractors maintain the required insurances contained in this Section; (c) notify the Contract Administrator within five (5) business days if any insurance is cancelled; and (d) waive all rights against the City for damages covered by insurance. Failure to maintain the required insurance does not limit this waiver.
+
+This Section is not intended to and is not to be construed in any manner as waiving, restricting or limiting the liability of either party for any obligations under this Contract (including any provisions hereof requiring Contractor to indemnify, defend and hold harmless the City).
+
+3. Staffing. The City’s Contract Administrator may require the Contractor to remove or reassign personnel by providing written notice to Contractor.
+
+4. Independent Contractor. The Contractor is an independent contractor and assumes all rights, obligations and liabilities set forth in this Contract. The Contractor, its employees, and agents will not be considered employees of the City. No partnership or joint venture relationship is created by virtue of this Contract. The Contractor, and not the City, is responsible for the payment of wages, benefits and taxes of the Contractor’s employees and any subcontractors. Prior performance does not modify the Contractor’s status as an independent contractor.
+
+5. Subcontracting. The Contractor may not delegate any of its obligations under the Contract without the prior written approval of the City. The Contractor must notify the City at least 90 calendar days before the proposed delegation and provide the City any information it requests to determine whether the delegation is in its best interest. If approved, the Contractor must: (a) be the sole point of contact regarding all contractual matters, including payment and charges for all Contract Activities; (b) make all payments to the subcontractor; and (c) incorporate the terms and conditions contained in this Contract in any subcontract with a subcontractor. The Contractor remains responsible for the completion of the Contract Activities, compliance with the terms of this Contract, and the acts and omissions of the subcontractor. The City, in its sole discretion, may require the replacement of any subcontractor.
+
+6. Assignment. The Contractor may not assign this Contract to any other party without the prior approval of the City. Upon notice to the Contractor, the City, in its sole discretion, may assign in whole or in part, its rights or responsibilities under this Contract to any other party. If the City determines that a novation of the Contract to a third party is necessary, the Contractor will agree to the novation and provide all necessary documentation and signatures.
+
+7. Stop Work Order. The City may suspend any or all activities under the Contract at any time. The City will provide the Contractor a written stop work order detailing the suspension. The Contractor must comply with the stop work order upon receipt. Within 90 calendar days, or any longer period agreed to by the Contractor, the City will either: (a) issue a notice authorizing Contractor to resume work, or (b) terminate the Contract or delivery order. The City will not pay for Contract Activities, the Contractor’s lost profits, or any additional compensation during a stop work period.
+
+8. Termination for Cause. The City may terminate this Contract for cause, in whole or in part, if Contractor, as determined by the City: (a) endangers the value, integrity, or security of any location, data, or personnel; (b) becomes insolvent, petitions for bankruptcy court proceedings, or has an involuntary bankruptcy proceeding filed against it by any creditor; (c) engages in any conduct that may expose the City to liability; (d) breaches any of its material duties or obligations; or (e) fails to cure a breach within the time stated in a notice of breach. Any reference to specific breaches being material breaches within this Contract will not be construed to mean that other breaches are not material.
+
+If the City terminates this Contract under this Section, the City will issue a termination notice specifying whether the Contractor must: (a) cease performance immediately, or (b) continue to perform for a specified period. If it is later determined that the Contractor was not in breach of the Contract, the termination will be deemed to have been a Termination for Convenience, effective as of the same date, and the rights and obligations of the parties will be limited to those provided in Section 24, Termination for Convenience.
+
+The City will only pay for amounts due to the Contractor for Contract Activities accepted by the City on or before the date of termination, subject to the City’s right to set off any amounts owed by the Contractor for the City’s reasonable costs in terminating this Contract. The Contractor must pay all reasonable costs incurred by the City in terminating this Contract for cause, including administrative costs, attorneys’ fees, court costs, transition costs, and any costs the City incurs to procure the Contract Activities from other sources.
+
+9. Termination for Convenience. The City may immediately terminate this Contract in whole or in part without penalty and for any reason, including but not limited to, appropriation or budget shortfalls. The termination notice will specify whether the Contractor must: (a) cease performance of the Contract Activities immediately, or (b) continue to perform the Contract Activities in accordance with Section 10, Transition Responsibilities. If the City terminates this Contract for convenience, the City will pay all reasonable costs, as determined by the City, for City approved Transition Responsibilities.
+
+10. Transition Responsibilities. Upon termination or expiration of this Contract for any reason, the Contractor must, for a period of time specified by the City (not to exceed 90 calendar days), provide all reasonable transition assistance requested by the City, to allow for the expired or terminated portion of the Contract Activities to continue without interruption or adverse effect, and to facilitate the orderly transfer of such Contract Activities to the City or its designees. Such transition assistance may include, but is not limited to: (a) continuing to perform the Contract Activities at the established Contract rates; (b) taking all reasonable and necessary measures to transition performance of the work, including all applicable Contract Activities, training, equipment, software, leases, reports and other documentation, to the City or the City’s designee; (c) taking all necessary and appropriate steps, or such other action as the City may direct, to preserve, maintain, protect, or return to the City all materials, data, property, and confidential information provided directly or indirectly to Contractor by any entity, agent, vendor, or employee of the City; (d) transferring title in and delivering to the City, at the City’s discretion, all completed or partially completed deliverables prepared under this Contract as of the Contract termination date; and (e) preparing an accurate accounting from which the City and the Contractor may reconcile all outstanding accounts (collectively, “Transition Responsibilities”). This Contract will automatically be extended through the end of the transition period.
+
+11. General Indemnification. The Contractor must defend, indemnify and hold the City, its departments, divisions, agencies, offices, commissions, officers, and employees harmless, without limitation, from and against any and all actions, claims, losses, liabilities, damages, costs, attorney fees, and expenses (including those required to establish the right to indemnification), arising out of or relating to: (a) any breach by the Contractor (or any of the Contractor’s employees, agents, subcontractors, or by anyone else for whose acts any of them may be liable) of any of the promises, agreements, representations, warranties, or insurance requirements contained in this Contract; (b) any infringement, misappropriation, or other violation of any intellectual property right or other right of any third party; (c) any bodily injury, death, or damage to real or tangible personal property occurring wholly or in part due to action or inaction by the Contractor (or any of the Contractor’s employees, agents, subcontractors, or by anyone else for whose acts any of them may be liable); and (d) any acts or omissions of the Contractor (or any of the Contractor’s employees, agents, subcontractors, or by anyone else for whose acts any of them may be liable).
+
+The City will notify the Contractor in writing if indemnification is sought; however, failure to do so will not relieve the Contractor, except to the extent that the Contractor is materially prejudiced. The Contractor must, to the satisfaction of the City, demonstrate its financial ability to carry out these obligations.
+
+The City is entitled to: (i) regular updates on proceeding status; (ii) participate in the defense of the proceeding; (iii) employ its own counsel; and to (iv) retain control of the defense if the City deems necessary. The Contractor will not, without the City’s written consent (not to be unreasonably withheld), settle, compromise, or consent to the entry of any judgment in or otherwise seek to terminate any claim, action, or proceeding. To the extent that any City employee, official, or law may be involved or challenged, the City may, at its own expense, control the defense of that portion of the claim.
+
+Any litigation activity on behalf of the City, or any of its subdivisions under this Section, must be coordinated with the Department of Law. An attorney designated to represent the City may not do so until approved by the Department of Law.
+
+12. Disclosure of Litigation, or Other Proceeding. The Contractor must notify the City within 14 calendar days of receiving notice of any litigation, investigation, arbitration, or other proceeding (collectively, "Proceeding") involving the Contractor, a subcontractor, or an officer or director of the Contractor or subcontractor, that arises during the term of the Contract, including: (a) a criminal Proceeding; (b) a parole or probation Proceeding; (c) a Proceeding under the Sarbanes-Oxley Act; (d) a civil Proceeding involving: (1) a claim that might reasonably be expected to adversely affect the Contractor’s viability or financial stability; or (2) a governmental or public entity’s claim or written allegation of fraud; or (e) a Proceeding involving any license that the Contractor is required to possess in order to perform under this Contract.
+
+13. Compliance with Laws. The Contractor must comply with all federal, state and local laws, rules and regulations.
+
+14. Living Wage. The Contractor must comply with Living Wage requirements based upon the U.S. Department of Health and Human Services Poverty Guidelines to the extent applicable to this Contract. This figure is calculated every February by the Federal Government and is released in late February or March. The City of Eastpointe shall not enter into any service contract with any Contractor who does not demonstrate that it pays its work force a Living Wage as defined in the Codified Ordinances of the City of Eastpointe Chapter 213, Ordinance No. 901.
+
+The Contractor shall certify annually that it is following the Living Wage Ordinance.
+
+15. Governing Law. This Contract is governed, construed, and enforced in accordance with Michigan law, and all claims relating to or arising out of this Contract are governed by Michigan law.
+
+16. Integrated Agreement. This Agreement contains all of the agreements of the parties and cannot be amended or modified except by written agreement.
+
+17. Amendment. This Agreement may be amended at any time by the mutual consent of the parties by an instrument, in writing.
+
+18. Non-Exclusivity. Nothing contained in this Contract is intended nor will be construed as creating any requirements contract with the Contractor. This Contract does not restrict the City or its agencies from acquiring similar, equal, or like Contract Activities from other sources.
+
+19. Dispute Resolution. The parties will endeavor to resolve any Contract dispute in accordance with this provision. The dispute will be referred to the parties’ respective Contract Administrators, Program Managers. Such referral must include a description of the issues and all supporting documentation. The parties must submit the dispute to the City Manager if unable to resolve the dispute within 15 business days. The parties will continue performing while a dispute is being resolved, unless the dispute precludes performance. A dispute involving payment does not preclude performance.
+
+Litigation to resolve the dispute will not be instituted until after the dispute has been elevated to the City Manager and either concludes that resolution is unlikely or fails to respond within 15 business days. The parties are not prohibited from instituting formal proceedings: (a) to avoid the expiration of statute of limitations period; (b) to preserve a superior position with respect to creditors; or (c) where a party decides that a temporary restraining order or other injunctive relief is the only adequate remedy. This Section does not limit the City’s right to terminate the Contract.
+
+20. Media Releases. News releases (including promotional literature and commercial advertisements) pertaining to the Contract or project to which it relates must not be made without prior written City approval, and then only in accordance with the explicit written instructions of the City.
+
+21. Severability. If any part of this Contract is held invalid or unenforceable, by any court of competent jurisdiction, that part will be deemed deleted from this Contract and the severed part will be replaced by agreed upon language that achieves the same or similar objectives. The remaining Contract will continue in full force and effect.
+
+22. Waiver. Failure to enforce any provision of this Contract will not constitute a waiver.
+
+23. Force Majeure. Neither party will be in breach of this Contract because of any failure arising from any disaster or acts of god that are beyond their reasonable control and without their fault or negligence. Each party will use commercially reasonable efforts to resume performance. The Contractor will not be relieved of a breach or delay caused by its subcontractors. If immediate performance is necessary to ensure public health and safety, the City may immediately contract with a third party.
+
+24. Entire Agreement and Order of Precedence.
+This Contract, which includes the Bid Specifications and Bid Forms, and schedules and exhibits which are hereby expressly incorporated, is the entire agreement of the parties related to the Contract Activities. This Contract supersedes and replaces all previous understandings and agreements between the parties for the Contract Activities. If there is a conflict between documents, the order of precedence is: (a) first, this Contract, excluding its schedules, exhibits, and the Bid Specifications and Bid Forms; (b) second, the Bid Specifications and Bid Forms as of the Effective Date; and (c) third, schedules expressly incorporated into this Contract as of the Effective Date. NO TERMS ON CONTRACTOR'S INVOICES, ORDERING DOCUMENTS, WEBSITE, OR OTHER NON-NEGOTIATED TERMS AND CONDITIONS PROVIDED WITH ANY OF THE CONTRACT ACTIVITIES WILL CONSTITUTE A PART OR AMENDMENT OF THIS CONTRACT OR IS BINDING ON THE STATE FOR ANY PURPOSE. ALL SUCH OTHER TERMS AND CONDITIONS HAVE NO FORCE AND EFFECT AND ARE DEEMED REJECTED BY THE STATE, EVEN IF ACCESS TO OR USE OF THE CONTRACT ACTIVITIES REQUIRES AFFIRMATIVE ACCEPTANCE OF SUCH TERMS AND CONDITIONS.
+
+25. Records Maintenance, Inspection, Examination, and Audit.
+The City or its designee may audit the Contractor to verify compliance with this Contract. The Contractor must retain and provide to the City Manager or Assistant City Manager, all financial, payroll, human resources, and accounting records related to the Contract through the term of the Contract and for 4 years after the latter of termination, expiration, or final payment under this Contract or any extension (“Audit Period”). If an audit, litigation, or other action involving the records is initiated before the end of the Audit Period, the Contractor must retain the records until all issues are resolved.
+
+Within 10 calendar days of providing notice, the City and its authorized representatives or designees have the right to enter and inspect the Contractor’s premises or any other places where Contract Activities are being performed, and examine, copy, and audit all records related to this Contract. The Contractor must cooperate and provide reasonable assistance. If any financial errors are revealed, the amount in error must be reflected as a credit or debit on subsequent invoices until the amount is paid or refunded. Any remaining balance at the end of the Contract must be paid or refunded within 45 calendar days.
+
+This Section applies to the Contractor, any parent, affiliate, or subsidiary organization of Contractor, and any subcontractor that performs Contract Activities in connection with this Contract.
+
+26. Conflicts and Ethics.
+The Contractor will uphold high ethical standards and is prohibited from: (a) holding or acquiring an interest that would conflict with this Contract; (b) doing anything that creates an appearance of impropriety with respect to the award or performance of the Contract; (c) attempting to influence or appearing to influence any City employee by the direct or indirect offer of anything of value; or (d) paying or agreeing to pay any person, other than employees and consultants working for the Contractor, any consideration contingent upon the award of the Contract. The Contractor must immediately notify the City of any violation or potential violation of these standards. This Section applies to the Contractor, any parent, affiliate, or subsidiary organization of the Contractor, and any subcontractor that performs Contract Activities in connection with this Contract.
+
+27. Website Incorporation.
+The City is not bound by any content on the Contractor’s website unless expressly incorporated directly into this Contract.
+
+28. Survival.
+The provisions of this Contract that impose continuing obligations, including warranties and representations, termination, transition, insurance coverage, indemnification, and confidentiality, will survive the expiration or termination of this Contract.
+
+[Remainder of page intentionally left blank]
+
+==================================================
+SIGNATURE PAGE
+==================================================
+
+Dated this 30th day of September, 2024
+
+CITY OF EASTPOINTE
+
+[Signature]
+Mariah Walton, City Clerk, City of Eastpointe, a Michigan municipal corporation
+
+STATE OF MICHIGAN
+COUNTY OF MACOMB
+
+The foregoing instrument was acknowledged before me this 30th day of September, 2024, by Mariah Walton, City Clerk, City of Eastpointe, a Michigan municipal corporation.
+
+[Notary Stamp: Breana Parsons]
+[Signature]
+Notary Public, Macomb County, Michigan.
+My Comm. Exp.: 01-18-2031
+Acting in Macomb County, Michigan
+
+Dated this 27th day of September, 2024
+
+FACILITIES360
+
+[Signature]
+By: Ray Awwad
+Its: Director of Operations
+
+STATE OF MICHIGAN
+COUNTY OF MACOMB
+
+The foregoing instrument was acknowledged before me this 27th day of September, 2024, by Ray Awwad, Its: Director of Operations.
+
+[Notary Stamp: Breana Parsons]
+[Signature]
+Notary Public, Macomb County, Michigan.
+My Comm. Exp.: 01-18-2031
+Acting in Macomb County, Michigan
+
+==================================================
+City of Eastpointe
+Specifications for Custodial Services
+CH-24-0002
+==================================================
+
+Bids are solicited by the City of Eastpointe for Custodial Services for a period of up to three (3) years starting September 2024. Custodial services are to be provided at five (5) municipal facilities. The names, locations and general size of each facility is as follows:
+
+Bidders need to consider the number hours to perform custodial cleaning in each facility.
+The following information is only statistical information on each City Facility.
+
+FACILITY LIST:
+1. Memorial Library (15875 Oak)
+   - Floors: 1
+   - Total Sq. Footage: 13,000
+   - Carpeted Sq. Footage: 10,000
+
+2. District Court (16101 Nine Mile)
+   - Floors: 2
+   - Total Sq. Footage: 10,000
+   - Carpeted Sq. Footage: 7,590
+
+3. Police Department (16083 Nine Mile)
+   - Floors: 2
+   - Total Sq. Footage: 31,600
+   - Carpeted Sq. Footage: 2,300
+
+4. City Hall** (23200 Gratiot)
+   - Floors: 1
+   - Total Sq. Footage: 17,000
+   - Carpeted Sq. Footage: 9,850
+
+5. DPWS (2 buildings) (17750 & 17800 Ten Mile)
+   - Floors: 1
+   - Total Sq. Footage: 2,395
+   - Carpeted Sq. Footage: 0
+
+**City Hall is 2,715 square feet of stained concrete; 725 square feet of ceramic tile; 1,590 square feet of vinyl tile.
+
+The successful bidder must be prepared to hold his/her bid price firm for a period of no less than 90 days after bids are open. The successful bidder must meet all of the following general requirements, as well as the detailed custodial services specifications, for each building.
+
+1. Applicable Specification
+
+This specification shall govern the performance of custodial services for the City of Eastpointe at the facilities described herein. The City of Eastpointe shall hereinafter be referred to as “City”. The term “Purchasing Agent” when hereinafter used shall mean the Purchasing Agent of the City of Eastpointe, or authorized representative. The term “Supervisor of Buildings” shall refer to the administrator or designated representative responsible for the buildings as defined herein. The term “Bidder” shall refer to the firm submitting a bid per these specifications.
+
+Note: an award will be made to the lowest, qualified bidder. The City will not award solely on price, but rather to the bidder who can best demonstrate an ability to perform the work. Bidders who do not supply all information requested herein cannot be considered. The contract will not be split by location. Bids will be evaluated based on total bid amount for three-year period.
+
+2. Time in Service/Grade of Service
+
+a. Only bidders with a minimum of five (5) continuous years in operation as a custodial firm will be eligible to bid. The performance of all services hereinafter designated must be of high grade quality by competent operators supervised at all times by the bidder, to assure adequate and efficient services performed with minimum interference to the normal functioning of the areas covered by this specification.
+
+b. Each custodian assigned shall be required to display at all times an official laminated identification card bearing the employee’s signature, picture, company logo, and supervisor’s signature.
+
+c. At any time, if the supervisor of buildings is unsatisfied with the quality or level of service, the successful bidder shall make immediate corrections. The bidder agrees to remove forthwith, and without cause or malice, any employee of the bidder at the City’s request.
+
+3. Material and Equipment
+
+a. The supervisor of buildings will supply all paper products, plastic liners, sanitary supplies, hand soaps, etc. It will be the bidder’s responsibility to supply all cleaning chemicals, equipment, labor, insurance and workman’s compensation on all its employees. It will be the bidder’s responsibility to inform the supervisor of buildings when items are needed.
+
+b. All cleaning equipment necessary for the performance of the services required under the provisions of this contract shall be furnished and maintained by the bidder, and the bidder shall be responsible for any repairs and/or replacement to such equipment. The bidder shall provide an inventory of the equipment they intend to use. The City may wish to physically see and inspect machines/equipment as part of the bid review. Supplies will be ordered by each individual department. Repairs and/or replacement of necessary equipment must be performed in a timely manner to ensure that properly maintained equipment is available on site at all times and the cleaning schedule is not suspended or interrupted.
+
+c. The supervisor of buildings and bidder will identify a mutually agreeable storage area, preferably in the buildings, for the storage of cleaning supplies and equipment, as necessary.
+
+d. If the bidder brings any additional cleaning supplies, it will be the bidder’s responsibility to notify the supervisor of buildings and request approval prior to that product being used in the building and provide a “Right to Know/Material Safety Data sheet” (MSDS) to the supervisor of buildings for each additional approved supply/chemical being utilized. It will be the bidder’s responsibility to cooperate fully with the supervisor of buildings to keep the Right to Know/MSDS’s up-to-date.
+
+4. General Custodial Requirements: Attachment 1 identifies the custodial services required, and the expected minimum frequency, at all City facilities.
+
+a. The bidder shall gather all trash from containers provided by the City in the interior areas of the building, depositing trash in the containers provided by the City at locations designated by the supervisor of buildings. Disposable trash liners shall be used in all trash receptacles. The bidder shall separate recyclable items from trash, as determined by the supervisor of buildings. The City will handle the removal of the accumulated trash from the site, but may require the bidder to deposit appropriately packaged trash in front of the building, or in an appropriate dumpster for pick up by the City’s refuse/recycling/composting collector.
+
+b. The bidder shall clean, pursuant to the specific standards set in Attachment 1, all surfaces, including counters, tables, desks and office equipment (excluding computer equipment), floors, bathrooms and associated fixtures, stairs, shelves, doors, cabinets, windows, switches, walls, and other miscellaneous surfaces as determined by the supervisor of buildings from time to time. Dust mop heads shall be changed weekly. Equipment and storage rooms shall be clean and orderly at all times. Stripping of hard surface floors shall remove all layers of wax and dirt to the original hard surface floor. Bidder must properly dispose of waste product and liquid residue resulting from stripper and wax removal. Disposal will be off site at bidder’s expense.
+
+c. The bidder may be requested, as determined by the supervisor of buildings, to thoroughly steam clean all carpeted areas identified by the supervisor of buildings once a year, as well as to wash the interior and exterior windows twice a year.
+
+d. The following is a list by City facility of the hours, as well as the number of days per week and the specific days of the week, the bidder should provide custodial services. Note: that this list is a reasonable estimate at the time of bidding and may change from time to time based on the needs of the City and/or individual supervisor of buildings. All bids should consider the number of hours specified for each building.
+
+SCHEDULE:
+- Memorial Library: 8:00 am – 11:00 pm (5 Days/Week: Mon - Fri)
+- Police: 7:00 am – 4:00 pm (5 Days/Week: Mon - Fri)
+- District Court: 7:00 am – 4:00 pm (5 Days/Week: Mon - Fri)
+- City Hall: 5:00 pm – 10:00 pm (5 Days/Week: Mon - Fri)
+- DPWS: 4:00 pm – 6:00 pm (5 Days/Week: Mon - Fri)
+
+Note: The Police Department Cell Block must be cleaned on a daily basis Monday through Friday. Bidder must make sure this task is built into the schedule.
+
+The City will provide the successful Bidder with a calendar of scheduled monthly meetings held at City Hall in the Council Chambers or lobby Conference Room. The City Council, School Board and various Boards and Commissions hold public meetings in the evenings that may impact the cleaning of the public areas. The Bidder should plan the work schedule so as to ensure the meetings are not interrupted.
+
+e. The bidder shall provide all personnel to accomplish all required services on schedule. All such personnel shall be skilled in the various tasks assigned to them. The bidder shall be responsible for proper conduct of its personnel while on the premises. When the assigned person is sick or on vacation the bidder will provide a qualified replacement to fill in for that time period. Bidder will send a trained qualified replacement to fill in for the time period. Substitute employees must have prior orientation to any City building they may get assigned to. If for any reason, the bidder can't provide a substitute person for whatever time period, the City will not be responsible to pay for the time period that the building is not being cleaned.
+
+The bidder shall furnish a list to the supervisor of buildings of all employees who will work in the building. The list shall contain the following information: name, address, telephone number and length of time employed by the bidder. The list must be kept current. All personnel employed by the bidder in performance of these services shall be those in its regular employment. All personnel shall be employees of the bidder and not self-employed individuals. No subcontracting shall be allowed.
+
+Personnel supplied by the bidder will be deemed employees of the bidder and will not for any purpose be considered employees or agents of the City. The bidder shall be solely responsible for payment of salary (including withholding of income taxes and social security), vacation pay (in accordance with the bidder’s policy), liability insurance, workers’ compensation disability benefits, unemployment compensation and their related benefits whether statutory or not. The work schedule shall be determined by the demands of the job, and shall comply with the Fair Labor Standards Act and the City of Eastpointe’s “Living Wage” Ordinance section 2-572. If requested by the City, the bidder shall provide payroll records as evidence that FICA and income tax are being withheld.
+
+f. The bidder shall provide additional cleaning services, on a per employee per hour basis, as may be requested by the supervisor of buildings, at the additional hourly cost per employee included on the bid form attached.
+
+g. If the successful bidder fails to perform a specific duty outlined pursuant to Attachment 1 and said failure results in the City completing that work through other methods or contracts, the City reserves the sole right to deduct the amount paid to another contractor or, in the event the City performs the duties with its own employees, for salaries, benefits, and equipment rental fees from any funds due, or becoming due, to the bidder for each occurrence. Payment will not be made to the bidder for daily services not completed.
+
+h. General qualifications for custodians include, but are not limited to the following:
+  i. Must be physically able to perform necessary duties;
+  ii. Must possess and maintain a valid State of Michigan driver’s license;
+  iii. Must have the ability to maintain work records;
+  iv. Must have knowledge of cleaning methods, procedures, materials and equipment;
+  v. Must have the ability to supervise a work crew, if necessary;
+  vi. Must have the ability to maintain excellent working relationships with superiors, other employees, and the general public; and
+  vii. Must have the ability to understand and carry out complex written and verbal instructions and orders.
+  viii. Must be trained in the Blood borne Pathogens and certified to clean-up any incident that fall under the scope of Blood borne Pathogens. City must receive proof of certification.
+  ix. Must immediately report any accidents or incidents to the City or supervisor of buildings and make immediate arrangements to repair, address or clean up accident/incident.
+
+5. Closure of Facility(s): If the City determines to close any of its facilities, the City has the right to cancel that portion of the contract, or withhold (not pay) for dates that service was not performed due to building closure including uncontrollable acts of nature (power outage, floods, snow storms etc.).
+
+6. Holidays: For providing custodial services under this contract, the work week shall be as indicated in the chart above. In the buildings that require a five-day work week, the following holidays will be observed by the contractor.
+  a. New Year’s Day
+  b. Martin Luther King Day
+  c. Good Friday
+  d. Memorial Day
+  e. July 4th
+  f. Labor Day
+  g. Thanksgiving
+  h. Day after Thanksgiving
+  i. Christmas Eve
+  j. Christmas Day
+  k. New Year’s Eve
+
+7. Reporting Repairs: The bidder shall report promptly to the supervisor of buildings any irregularities in any of the areas serviced regarding heating or ventilating equipment, lighting, furniture, broken doors or windows, dispensing equipment in rest rooms, or any other condition which may require attention for repairs, adjustment or replacement.
+
+==================================================
+Attachment 1
+Required Custodial Services
+==================================================
+
+FREQUENCY: DAILY
+
+AREA: ALL BATHROOMS
+- Clean, disinfect and sanitize all fixtures in the bathrooms with an EPA registered dual quaternary ammonium chloride disinfectant, including faucets and sinks, toilet bowls and seats, urinals, paper towel, toilet paper and soap dispensers, and the walls around the toilets and urinals, etc.
+- Wipe bathroom mirrors
+- Sweep and wet mop bathroom floors
+- Empty wastebaskets and replace liners
+- Check and refill soap and all paper dispensers
+
+AREA: PUBLIC SPACES
+- Wipe all public counters, dust surfaces
+- Vacuum carpeting with high velocity commercial carpet sweeper
+- Sweep and damp mop any hard surface flooring
+- Empty all wastebaskets and replace liners
+- Clean and sanitize drinking fountains
+
+AREA: KITCHENS / BREAKROOMS
+- Clean and disinfect kitchen / breakroom counters, tables and sinks (only if cleared of dishes, etc.)
+- Wipe front surface and handles of appliances
+- Sweep and wet mop kitchen / breakroom floors
+- Empty recycle bins, properly disposing of recyclables
+- Empty all wastebaskets and replace liners
+- Check and refill soap and all paper dispensers
+- Spot clean furniture, cabinets, walls, wall switch plates, interior doors and door hardware
+
+AREA: PRIVATE AREAS AND OFFICES
+- Wipe all commonly used counters and tables, dust surfaces
+- Vacuum carpeting with high velocity commercial carpet sweeper
+- Sweep and damp mop any hard surface flooring
+- Spot clean furniture, cabinets, walls, wall switch plates, interior doors and door hardware
+- Empty recycle bins, properly disposing of recyclables
+- Empty all wastebaskets and replace liners
+- Remove trash to outside dumpster
+- Maintain cleanliness and neatness of custodial area
+- Perform related duties, as required and requested
+
+SECURE ALL ENTRANCES AND EXITS AS DIRECTED AT THE END OF EACH SHIFT
+
+FREQUENCY: WEEKLY (one area of building each day)
+- Library: dust bookshelves, including tops of books, and exposed shelving
+- Spot clean furniture, tables, cabinets, walls, carpeting, partition glass, wall switch plates, interior doors and door hardware
+- Dust blinds, windowsills, tops of cabinets and shelves (if empty)
+- Sweep and damp mop stairs to basement
+- Dust furniture, tables, chairs and cabinets in one section of the building
+- Wipe conference room tables / furniture, vacuum or mop floors
+- Council Chambers: vacuum and wipe all counter tops and tables
+- Unpack delivered supplies into appropriate storage
+
+FREQUENCY: MONTHLY
+- Clean Council Chambers glass doors and partition
+- Clean Mayor / Council office
+- Wipe lobby door sets, including glass and metal frames
+- Wipe hard surface chairs in public areas
+- Wipe / wash bathroom tile walls and stall walls / doors
+- Remove all cobwebs within reach
+
+FREQUENCY: SEMI – ANNUALLY (as requested)
+- Steam clean carpeting (city staff to remove moveable items)
+- Strip and wax floors (city staff to remove items)
+- Clean exterior and interior of windows (city staff to remove items)
+- Other large cleaning projects as may be requested
+
+==================================================
+Attachment 2
+Defined Areas by Facility
+==================================================
+
+1. Memorial Library – Facility is spread across one (1) floor and has approximately 13,000 square feet of building space, 10,000 square feet of carpeted space.
+a. Public Areas: Lobby, hallways, stacks/shelves; non-fiction/reference; children’s’ fiction; community room; audio/visual; and periodicals
+b. Office Areas: Hallways; circulation; director’s office; work room; storage; and (3) boiler/furnace
+c. Sanitary Areas: Kitchen/lounge; and three (3) restrooms
+
+2. District Court – Facility is spread out over one (1) floor and has approximately 6,041 square feet of building space, 5,012 square feet of which is carpeted.
+a. Public Areas: Lobby, three (3) lobby conference rooms, and two (2) court rooms
+b. Office Areas: Upstairs- Probation clerk; probation officer; court administrator; hallways; library; jury deliberation room; bailiff office; judge’s chambers; elevator and two (2) stairwells
+c. Sanitary Areas: Upstairs-two (2) public restrooms; employee restroom; jury deliberation restroom; and judge’s chambers restroom; and three (3) temporary holding cells.
+
+3. Police Department – The Eastpointe Police Department is spread out over two floors and has approximately 31,600 square feet of building space, 2,300 square feet of which is carpeted.
+a. Public Areas: Lobby
+b. Office Areas: Upstairs – command officer; dispatch center; report room; records room; booking room; hallways; interview room; sergeants office; Deputy Chief office; Chief office, secretary office; cell block and squad room. Basement – detective bureau; detective office; gun range lobby area; gym; detective Lt. office, Special Investigation Unit area; and hallways
+c. Sanitary Areas: Upstairs – two (2) public restrooms; two (2) office restrooms. Basement – two (2) locker room restrooms.
+
+4. City Hall – City Hall is approximately 17,000 square feet of building space, 9,850 square feet of which is carpeted.
+a. Public Areas: Lobby and vestibules, city manager’s foyer, Council Chambers, and lobby conference room.
+b. North Side Office Areas: City manager, assistant city manager, human resources and economic development offices, City Manager front office and copy area; Building, Assessing and Clerk counter areas and cubicle workstations; inspector cubicles; Building Official office; copy and mail room; Assessing office, assessing file room; Clerk office and work areas.
+c. South Side Office Areas: Finance director and deputy finance director offices, finance clerk area with cubicle workstations; accounts payable office with three cubicles; small kitchen area; council office, hallway and coffee nook area.
+d. Sanitary Areas: two (2) public restrooms; four (4) employee restrooms; kitchen area; one (1) employee break room; two (2) coffee nook areas (Finance and City Manager’s department areas)
+e. Elevator and stairwell to basement
+
+5. Public Works Building – The Public Works building is approximately 7,930 square feet of building space, 2,921 square feet of which will be cleaned. There is no carpet in the building. (The measured space is the workspace split between two (2) buildings)
+a. Public Areas: Small Lobby area and a small front office
+b. Office Areas: four (4) offices, open work area, one (1) conference room
+c. Sanitary Areas: four (4) bathrooms, one (1) shower area, one (1) break room and one (1) locker room area
+
+==================================================
+Facilities360 Response Information
+==================================================
+Firm Name: Facilities360
+Signed by: Ray Awwad
+Title: Director of Operations
+Address: 2750 Carpenter Rd, Ann Arbor, MI 48108
+Telephone: 313-879-9984
+Email: rawwad@facilities360.com
+Website: www.facilities360.com
+Facility Services Made Simple
+We provide customized plans tailored to meet your specific needs
+
+==================================================
+City of Eastpointe - Amended #2 Bid Form
+(Transcribed from Handwritten values)
+==================================================
+
+YEAR 1:
+Memorial Library: $1,155/mo (2.5 hrs/day) -> $13,860/yr
+Police: $2,310/mo (5 hrs/day) -> $27,720/yr
+District Court: $2,310/mo (5 hrs/day) -> $27,720/yr
+City Hall: $1,386/mo (3 hrs/day) -> $16,632/yr
+DPWS: $924.00/mo (2 hrs/day) -> $11,088/yr
+TOTAL FOR YEAR 1: $97,020.00
+
+YEAR 2:
+Memorial Library: $14,278.80/yr (630 hrs/yr) - Add'l Svc: $22.60/hr
+Police: $28,551.60/yr (1260 hrs/yr) - Add'l Svc: $22.60/hr
+District Court: $28,551.60/yr (1260 hrs/yr) - Add'l Svc: $22.60/hr
+City Hall: $17,130.96/yr (756 hrs/yr) - Add'l Svc: $22.60/hr
+DPWS: $11,420.64/yr (504 hrs/yr) - Add'l Svc: $22.60/hr
+TOTAL FOR YEAR 2: $99,930.60
+
+YEAR 3:
+Memorial Library: $14,707.17/yr (630 hrs/yr) - Add'l Svc: $23.00/hr
+Police: $29,408.15/yr (1260 hrs/yr) - Add'l Svc: $25.00/hr
+District Court: $29,408.15/yr (1260 hrs/yr) - Add'l Svc: $23.00/hr
+City Hall: $17,644.90/yr (756 hrs/yr) - Add'l Svc: $23.00/hr
+DPWS: $11,763.26/yr (504 hrs/yr) - Add'l Svc: $23.00/hr
+TOTAL FOR YEAR 3: $102,928.52
+
+TOTAL FOR ALL THREE YEARS: $299,879.12
+
+ADDITIONAL SERVICES PRICING:
+Carpet Steam Cleaning: $0.20/Sq Ft
+Strip and Wax Tile Floor(s): $0.30/Sq Ft
+Clean Both Sides of Exterior Windows: $25.00/HR
+Hourly, per person cost for other large cleaning projects: $23.00
+
+Signed: Ray Awwad, D.O.O.
+Date: 7/17/24
